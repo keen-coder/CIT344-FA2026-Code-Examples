@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Don't ignore directories
+!*/
+
+# Don't ignore .asm files.
+!*.asm
+
+# Don't ignore .gitignore
+!.gitignore
