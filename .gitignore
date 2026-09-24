@@ -1,14 +1,15 @@
 # Ignore everything
 *
 
-# Don't ignore directories
+# Unignore all directories
 !*/
 
-# Don't ignore .asm files.
+# Unignore assembly files
 !*.asm
+!**/*.asm
 
-# Don't ignore .gitignore
+# Unignore .gitigno***files
 !.gitignore
 
-# Reignore homework_solutions/
+# Re-ignore s***tions
 homework_solutions/
